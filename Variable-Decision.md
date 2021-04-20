@@ -33,7 +33,8 @@ int main(){
 //12
 ```
 ตัวแปรที่เก็บจำนวนเต็ม มีหลายแบบ ตามจำนวนค่าที่ต้องการจะเก็บ ดังนี้
-![Integer Data Type](https://lh3.googleusercontent.com/proxy/jVPt72cloZFMVwAqmKkzUoSVhqTi9IK5qjF15M4Vu48Rdd8IMDFwIi4LbOmhH9xc7sE_I5Fw6n-ZQunFRPOfXcpIgwJLkfe8Wz9xG3TFN24wQ70Ia2BGeCmFN3T-hLTxT779dQ)
+![Integer Data Type](https://lh3.googleusercontent.com/proxy/jVPt72cloZFMVwAqmKkzUoSVhqTi9IK5qjF15M4Vu48Rdd8IMDFwIi4LbOmhH9xc7sE_I5Fw6n-ZQunFRPOfXcpIgwJLkfe8Wz9xG3TFN24wQ70Ia2BGeCmFN3T-hLTxT779dQ)  
+
 ## ชนิดข้อมูลเลขทศนิยม  
 ใช้เก็บจำนวนที่มีทศนิยม
 ```c
