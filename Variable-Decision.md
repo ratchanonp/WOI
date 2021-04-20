@@ -33,7 +33,7 @@ int main(){
 //12
 ```
 ตัวแปรที่เก็บจำนวนเต็ม มีหลายแบบ ตามจำนวนค่าที่ต้องการจะเก็บ ดังนี้
-![Integer Data Type](IntegerDataType.png)
+![Integer Data Type](https://lh3.googleusercontent.com/proxy/jVPt72cloZFMVwAqmKkzUoSVhqTi9IK5qjF15M4Vu48Rdd8IMDFwIi4LbOmhH9xc7sE_I5Fw6n-ZQunFRPOfXcpIgwJLkfe8Wz9xG3TFN24wQ70Ia2BGeCmFN3T-hLTxT779dQ)
 ## ชนิดข้อมูลเลขทศนิยม  
 ใช้เก็บจำนวนที่มีทศนิยม
 ```c
@@ -45,7 +45,7 @@ int main(){
 }
 //5.500000 7.123000
 ```
-![Float Data Type](FloatDataType.png)
+![Float Data Type](https://lh3.googleusercontent.com/proxy/NOj5XYdyCig8TCJ7cinyUHGlQjW7U9kRQbeYe6Aoe8_G34_2CcVWemCa75KAM8qbuKVOmenRueJtoOHgGVBq-AKkMaEEjN82NN5G_M4e36IWNML35AQc-2FRjK4q5Rsv0HvGzouDoG2XNQ)
 ## ชนิดข้อมูลตัวอักษร
 ข้อมูลชนิดนี้แทนอักขระหนึ่งตัว ไม่ได้แทนข้อความทั้งข้อความ การประกาศตัวแปรชนิดนี้ใช้คำว่า char
 ```c
@@ -159,7 +159,7 @@ printf("string_format",data_list);```
 string_format คือ ข้อความที่ต้องการแสดงผล เช่น ข้อความทั่วไป ตัวเลข อักขระพิเศษ  
 data_list คือ ข้อมูลที่ต้องการแสดงผลจำพวก ตัวแปร นิพจน์ที่คำนวณค่าออกมาได้  
 ตัวแปรแต่ละแบบ ใช้%ต่างกัน ดังภาพ
-![ListofFormatinC](ListofFormatinC.png)
+![ListofFormatinC](https://codewindow.in/wp-content/uploads/2021/03/Screenshot-99-1536x864.png)
 สำหรับ float (%f) สามารถปรับเลขทศนิยมที่ต้องการแสดงได้ เช่น  
 %.3f แสดงทศนิยม 3 ตัว  
 %.1f แสดงทศนิยม 1 ตัว   
