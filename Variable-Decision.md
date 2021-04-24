@@ -35,7 +35,7 @@ int main(){
 ตัวแปรที่เก็บจำนวนเต็ม มีหลายแบบ ตามจำนวนค่าที่ต้องการจะเก็บ ดังนี้  
 
 
-![Integer Data Type](https://lh3.googleusercontent.com/proxy/jVPt72cloZFMVwAqmKkzUoSVhqTi9IK5qjF15M4Vu48Rdd8IMDFwIi4LbOmhH9xc7sE_I5Fw6n-ZQunFRPOfXcpIgwJLkfe8Wz9xG3TFN24wQ70Ia2BGeCmFN3T-hLTxT779dQ)  
+![Integer Data Type](https://lh3.googleusercontent.com/proxy/f_s-mE6QMTO-F0_OF63BC8O3l_6ocilKA06lkXMcN76R9fWonXx8_xiKDvY4GCYqV72nCeUuA3evbAVkGjpjtfAq7nGI4SBLa6yLZs2p1WmR5Vc0sUM-iUrjxvg3F5m96xAUCw)  
 
 ## ชนิดข้อมูลเลขทศนิยม  
 ใช้เก็บจำนวนที่มีทศนิยม
@@ -48,7 +48,7 @@ int main(){
 }
 //5.500000 7.123000
 ```
-![Float Data Type](https://lh3.googleusercontent.com/proxy/NOj5XYdyCig8TCJ7cinyUHGlQjW7U9kRQbeYe6Aoe8_G34_2CcVWemCa75KAM8qbuKVOmenRueJtoOHgGVBq-AKkMaEEjN82NN5G_M4e36IWNML35AQc-2FRjK4q5Rsv0HvGzouDoG2XNQ)
+![Float Data Type](https://lh3.googleusercontent.com/proxy/AmrGbHIfrO9DuyaNfoTW19J176W13kwNEMhFJ1YzvcXZyhKlfbiieUyUWVqbm_Trp-ORLtpzMqqpjqMLmIP9VtAxc01IOBFVsDFPd3c7TqBCeb2BLWgO7uAKVm9xR1jCzdnUb1Pz39VOVg)
 ## ชนิดข้อมูลตัวอักษร
 ข้อมูลชนิดนี้แทนอักขระหนึ่งตัว ไม่ได้แทนข้อความทั้งข้อความ การประกาศตัวแปรชนิดนี้ใช้คำว่า char
 ```c
